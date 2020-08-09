@@ -1,5 +1,5 @@
 # Optimal Supermarket Stocking
-![image](render.png)
+![image](routes.png)
 A vehicle routing problem solved utilising a genetic algorithm based TSP solver. Required analysis of existing demand data to determine likely daily demands at nodes. Using the OpenStreetMaps API real-world distance and road data was used when solving, Foliage was used to visualise the routes. Monte Carlo Simulation was used to estimate chances that additional routing would be required.
 
 ## Files and Folders
